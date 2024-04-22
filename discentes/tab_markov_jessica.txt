@@ -1,0 +1,95 @@
+2023	SIM	Aplicado
+2023	SIM	Aplicado
+2023	SIM	Aplicado
+2023	NÃO	Aplicado
+2022	SIM	Aplicado
+2022	NÃO	Teórico
+2020		Aplicado
+2020	NÃO	Aplicado
+2019		
+2019		
+2019		Aplicado
+2019	NÃO	Aplicado
+2019	SIM	Aplicado
+2019	NÃO	Aplicado
+2018	SIM	Aplicado
+2018	SIM	Aplicado
+2018	SIM	Aplicado
+2018	NÃO	Aplicado
+2017	SIM	Teórico
+2017	SIM	Aplicado
+2017	SIM	Aplicado
+2017	NÃO	Aplicado
+2017	NÃO	Teórico 
+2017	Sim	Aplicado
+2017	SIM	Aplicado
+2016	NÃO	Aplicado
+2016	SIM	Aplicado
+2016	SIM	Aplicado
+2016	NÃO	Aplicado
+2016	NÃO	Aplicado
+2016	SIM	Aplicado
+2016	SIM	Aplicado
+2015		Aplicado
+2015	NÃO	Aplicado
+2014	NÃO	Aplicado
+2014	NÃO	Aplicado
+2014	Sim	Aplicado
+2014	NÃO	Teórico
+2013	SIM	Aplicado
+2013	NÃO	Teórico
+2011	NÃO	Aplicado
+2011	SIM	Aplicado
+2011	SIM	Aplicado
+2011	NÃO	Aplicado
+2011	SIM	Aplicado
+2010	SIM	Aplicado
+2010		
+2010	NÃO	Aplicado
+2009		Teórico 
+2009	Sim	Teórico
+2009	SIM	Aplicado
+2008	SIM	Aplicado
+2008	SIM	Aplicado
+2008		
+2006		
+2005	NÃO	Aplicado
+2005	SIM	Aplicado
+2005	SIM	Aplicado
+2005	NÃO	Aplicado
+2005		
+2005	SIM	Aplicado
+2004	Não	Aplicado
+2004	Não	Teórico
+2004	Sim	Teórico
+2004		
+2004		
+2004		
+2004	NÃO	Teórico
+2004		
+2004		
+2004		
+2004	Não	Aplicado
+2003	NÃO	Aplicado
+2003		
+2003	SIM	Teórico
+2003		
+2002		Aplicado
+2001		
+2001	NÃO	
+2001	SIM	
+2001	NÃO	Aplicado
+2000	NÃO	Teórico
+2000	NÃO	
+2000	Não	Aplicado
+1999	NÃO	Teórico
+1999	NÃO	Teórico
+1999	NÃO	
+1999		Teórico
+1998		
+1998	NÃO	Aplicado
+1997	SIM	Aplicado
+1997	NÃO	Teórico
+1997	NÃO	Aplicado
+1997	SIM	Aplicado
+
