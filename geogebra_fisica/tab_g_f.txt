@@ -1,0 +1,41 @@
+ANO	AP*	TD*	 Testagem?	NE*
+2017	Ondulatória	A	NÃO	EM
+2022	 Mecânica	A	NÃO	EM
+2022	Física Moderna	A	NÃO	ES
+2021	Física Moderna	A	NÃO	ES
+2019	 Mecânica	A	SIM	EM
+2023	Óptica	A	SIM	ES
+2021	Óptica	A	SIM	ES
+2022	 Mecânica	A	SIM	EM
+2022	 Mecânica	A	SIM	EM/ES
+2017	Óptica	A	NÃO	EM
+2023	Física Moderna	A	NÃO	ES
+2018	 Mecânica	A	SIM	EM
+2023	Termologia	A	NÃO	ES
+2016	 Mecânica	M	SIM	EM
+2018	 Mecânica	M	SIM	EM
+2016	Óptica	M	SIM	EM
+2017	Óptica	M	SIM	EF/EM
+2022	Eletromagnetismo	A	SIM	EM
+2020	Eletromagnetismo	M	SIM	EM
+2012	Física Moderna	A	NÃO	EM
+2021	 Mecânica	G	SIM	EM
+2019	 Mecânica	M	SIM	EM
+2018	 Mecânica	M	NÃO	EM
+2012	 Mecânica	M	NÃO	ES
+2019	 Mecânica	A	NÃO	EF/EM
+2019	Ondulatória	M	SIM	EM
+2022	Ondulatória	M	SIM	EM
+2016	 Mecânica	M	SIM	EM
+2010	 Mecânica	A	SIM	EM/ES
+2009	Ondulatória	A	SIM	EM
+2019	 Mecânica	M	SIM	EM
+2023	Física Moderna	M	SIM	EM
+2021	 Mecânica	M	SIM	EM
+2023	 Mecânica	M	SIM	EF/EM
+2015	 Mecânica	G	SIM	EM
+2014	 Mecânica	G	SIM	EM
+2021	Óptica	M	SIM	EM
+2018	 Mecânica	M	SIM	EM
+2018	Óptica	M	NÃO	EM
+2017	Óptica	M	SIM	EM
