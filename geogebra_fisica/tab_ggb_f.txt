@@ -1,0 +1,51 @@
+ANO	M	On	Op	T	E	FM	TD	Te	EF	EM	ET	ES
+2017	X	X					A	N		X		
+2022	X						A	N		X		
+2022	X					X	A	N				X
+2021	X					X	A	N				X
+2019	X						A	S		X		
+2023		X	X		X		A	S				X
+2021			X				A	S				X
+2022	X						A	S		X		
+2022	X		X				A	S		X		X
+2017			X				A	N		X		
+2023						X	A	N				X
+2018	X						A	S		X		
+2023				X			A	N				X
+2016	X						M	S		X		
+2018	X						M	S		X		
+2016			X				M	S		X		
+2017			X				M	S	X	X		
+2022					X		A	S		X		
+2020					X		M	S		X		
+2012						X	A	N		X		
+2021	X						G	S		X		
+2019	X						M	S		X		
+2018	X						M	N		X		
+2012	X						M	N				X
+2019	X						A	N	X	X		
+2019		X					M	S		X		
+2022		X					M	S		X		
+2016	X	X					M	S		X		
+2010	X						A	S		X		X
+2009		X					A	S		X		
+2019	X						M	N		X		
+2023						X	M	S		X		
+2021	X						M	S		X		
+2023	X						M	S	X	X		
+2015	X						G	S		X		
+2014	X						G	S		X		
+2021			X				M	S		X		
+2018	X						M	S		X		
+2018	X	X	X				M	N		X		
+2016	X						M	N		X		
+2015	X						M	S		X		
+2020	X						A	S	X			
+2022		X					M	S		X		
+2021	X						A	S		X		
+2021		X					G	N		X		
+2019	X						M	N		X		
+2021					X		A	S				X
+2020					X		D	S				X
+2020					X	X	D	S				X
+2020	X	X					D	S		X		
