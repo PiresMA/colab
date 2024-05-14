@@ -1,0 +1,80 @@
+ANO	Mec	Ond	Opt	Term	Elet	FM	QAT	TD	Test	EF	EM	ES
+2017	X	X					2	A	N		X	
+2022	X					X	2	A	N			X
+2021	X					X	2	A	N			X
+2019	X						1	A	S		X	
+2023		X	X		X		3	A	S			X
+2022	X						1	A	S		X	
+2021			X				1	A	S			X
+2019	X						1	A	N	X	X	
+2016	X	X					2	M	S		X	
+2022	X						1	A	N		X	
+2022	X		X				2	A	S		X	X
+2017			X				1	A	N		X	
+2023						X	1	A	N			X
+2018	X						1	A	S		X	
+2023				X			1	A	N			X
+2016	X						1	M	S		X	
+2018	X						1	M	S		X	
+2016			X				1	M	S		X	
+2017			X				1	M	S	X	X	
+2022					X		1	A	S		X	
+2020					X		1	M	S		X	
+2012						X	1	A	N		X	
+2021	X						1	G	S		X	
+2019	X						1	M	S		X	
+2018	X						1	M	N		X	
+2012	X						1	M	N			X
+2019		X					1	M	S		X	
+2022		X					1	M	S		X	
+2010	X						1	A	S		X	X
+2009		X					1	A	S		X	
+2019	X						1	M	N		X	
+2023						X	1	M	S		X	
+2021	X						1	M	S		X	
+2023	X						1	M	S	X	X	
+2015	X						1	G	S		X	
+2014	X						1	G	S		X	
+2021			X				1	M	S		X	
+2018	X						1	M	S		X	
+2018	X	X	X				3	M	N		X	
+2016	X						1	M	N		X	
+2015	X						1	M	S		X	
+2020	X						1	A	S	X		
+2022		X					1	M	S		X	
+2021	X						1	A	S		X	
+2021		X					1	G	N		X	
+2019	X						1	M	N		X	
+2021					X		1	A	S			X
+2020					X		1	D	S			X
+2020					X	X	2	D	S			X
+2020	X	X					2	M	S		X	
+2016				X		X	2	M	N			X
+2015				X	X	X	3	M	S			X
+2017				X			1	A	S		X	
+2017				X		X	2	A	S	X	X	
+2023	X					X	2	A	N			X
+2021	X					X	2	A	N		X	X
+2020	X					X	2	A	S		X	
+2018	X						1	A	N		X	X
+2018			X				1	A	S		X	
+2021				X			1	A	N		X	
+2021		X					1	G	N		X	
+2019	X						1	A	S			X
+2017	X						1	A	S		X	X
+2016	X						1	A	N		X	
+2012	X						1	A	S		X	
+2022		X					1	M	S		X	
+2018	X						1	A	S		X	
+2023	X					X	2	A	S		X	
+2020			X			X	2	A	S		X	
+2017	X				X		2	A	S			X
+2022	X						1	A	S		X	
+2023	X						1	A	N	X	X	
+2022			X				1	M	S		X	
+2023		X				X	2	A	S		X	
+2017	X						1	A	S			X
+2015	X						1	A	N			X
+2023	X						1	A	N	X	X	
+2013	X						1	A	S			X
+2021	X						1	A	S			X
